@@ -1,0 +1,5 @@
+This repository has the code and report for a recent analysis of the IRS Form 990 tax return extract. 
+Every year, the IRS releases a dataset of the tax returns of nonprofit organizations, which can be found here: https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data
+The .Rmd file provides R Markdown code with explanations of the analysis performed.
+To replicate the code as written, download the .XLSX file for the 2020 extract, found here: https://www.irs.gov/pub/irs-soi/20eofinextractdoc.xlsx
+This report uses only the standard 990 extract, so the tabs for 990-PF and 990-EZ are excluded.
